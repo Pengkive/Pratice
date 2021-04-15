@@ -123,7 +123,7 @@ public class Test55 {
 //		과일 구매자의 현재상황 (잔고, 구매 후 보유하고 있는 과일 수)출력
 		System.out.println("-----과일 구매자의 현재 상황-----");
 		buyer.showBuyResult();
-	
+
 
 		
 	}//
