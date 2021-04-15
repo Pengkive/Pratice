@@ -24,7 +24,7 @@ class Test{
 		x += z;
 		y += z;
 	}
-	
+
 }
 
 public class Test70 {
